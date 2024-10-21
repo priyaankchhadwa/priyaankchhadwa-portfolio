@@ -46,7 +46,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Tech Stack</p>
               <p className="grid-subtext">
-                I specialize in a variety of languages, mainly Python and TypeScript/JavaScript, along with a multitue of frameworks, and tools that allow me to build robust and scalable
+                I specialize in a variety of languages, mainly Python and TypeScript/JavaScript, along with a multitude of frameworks, and tools that allow me to build robust and scalable
                 applications
               </p>
             </div>
