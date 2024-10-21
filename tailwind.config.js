@@ -5,6 +5,12 @@ export default {
     extend: {
       fontFamily: {
         generalsans: ['General Sans', 'sans-serif'],
+        pixelify: ['Pixelify Sans', 'sans-serif'],
+        monoton: ['Monoton', 'sans-serif'],
+        megrim: ['Megrim', 'system-ui'],
+        cabin: ['Cabin Sketch', 'sans-serif'],
+        bigShoulders: ['Big Shoulders Inline Text', 'sans-serif'],
+        raleway: ['Raleway', 'sans-serif'],
       },
       colors: {
         black: {
