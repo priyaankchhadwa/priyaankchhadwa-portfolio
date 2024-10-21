@@ -4,7 +4,6 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        generalsans: ['General Sans', 'sans-serif'],
         pixelify: ['Pixelify Sans', 'sans-serif'],
         monoton: ['Monoton', 'sans-serif'],
         megrim: ['Megrim', 'system-ui'],
