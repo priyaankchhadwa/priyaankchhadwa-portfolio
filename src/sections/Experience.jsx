@@ -1,6 +1,6 @@
-import { Suspense, useState } from 'react';
-import { Canvas } from '@react-three/fiber';
 import { OrbitControls } from '@react-three/drei';
+import { Canvas } from '@react-three/fiber';
+import { Suspense, useState } from 'react';
 
 import Developer from '../components/Developer.jsx';
 import CanvasLoader from '../components/Loading.jsx';
@@ -38,7 +38,7 @@ const WorkExperience = () => {
                   className="work-content_container group">
                   <div className="flex flex-col h-full justify-start items-center py-2">
                     <div className="work-content_logo">
-                      <img className="w-full h-full object-contain" src={item.icon} alt={`${item.name} logo`} />
+                      <img className="w-full h-full object-contain rounded-lg" src={item.icon} alt={`${item.name} logo`} />
                     </div>
 
                     <div className="work-content_bar" />
