@@ -204,7 +204,7 @@ export const workExperiences = [
 		id: 1,
 		name: 'Freelance',
 		pos: 'Software Engineer',
-		duration: 'Aug 2021 - Sept 2023',
+		duration: 'Sept 2023 - Present',
 		description: ["Built scalable, lightning-fast web apps using Next.js, React.js, and Node.js, making sure users enjoy smooth experiences (and developers after me don’t curse my code).",
 				"Designed backend systems that handle data like a pro (Firebase, AWS, GCP)—because nobody likes an app that crashes under pressure.",
 				"Automated deployments and CI/CD pipelines with Git, GitHub, Docker and cloud services, because “it works on my machine” isn’t an excuse.",
